@@ -1,0 +1,14 @@
+.heading{
+           text-align: center;
+           color: red;
+           background: pink;
+}
+.me{
+    -webkit-text-fill-color: white;
+    -webkit-padding-fill-color: blue;
+    background-color: blue;
+    align-content: center;
+}
+.image{
+      inline-size: 10ch;
+}
